@@ -158,6 +158,10 @@ nnoremap <C-L> :nohl<CR><C-L>
 
 "------------------------------------------------------------
 
+"------
+" Copy-Paste stuff
+set clipboard=unnamedplus
+
 "----
 " Word Proc func
 func! WordProcessorMode()
